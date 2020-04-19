@@ -3,12 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ma.projet.forms;
+package ma.projet.classes;
 import com.sun.org.apache.bcel.internal.generic.AALOAD;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 import ma.projet.classes.Etudiant;
-import ma.projet.service.EtudiantService;
 //Source : www.exelib.net
 /**
  *

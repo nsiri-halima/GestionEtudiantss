@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ma.projet.forms;
+package ma.projet.classes;
+
+import ma.projet.classes.EtudiantForms;
 
 /**
  *

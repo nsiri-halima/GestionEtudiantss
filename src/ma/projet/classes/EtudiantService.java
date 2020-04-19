@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ma.projet.service;
+package ma.projet.classes;
 import java.util.ArrayList;
 import java.util.List;
 import ma.projet.classes.Etudiant;
-import ma.projet.dao.IDao;
+import ma.projet.classes.IDao;
 
 /**
  *
